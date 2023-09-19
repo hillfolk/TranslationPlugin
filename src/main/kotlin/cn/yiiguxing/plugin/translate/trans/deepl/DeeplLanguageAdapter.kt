@@ -66,7 +66,7 @@ object DeeplLanguageAdapter : BaseLanguageAdapter() {
             Lang.SLOVENIAN,
             Lang.SPANISH,
             Lang.SWEDISH,
-            Lang.KOREA,
+            Lang.KOREAN,
     )
 
     override fun getAdaptedLanguages(): Map<String, Lang> = mapOf(
